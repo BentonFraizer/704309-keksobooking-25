@@ -91,7 +91,7 @@ const resetMarkersAndMapCoords = () => {
 
 //Замена изображения штатной иконки для обычной метки
 const icon = L.icon({
-  iconUrl: '../img/pin.svg',
+  iconUrl: './img/pin.svg',
   iconSize: PIN_ICON_SIZE,
   iconAnchor: PIN_ICON_SETTINGS,
 });
