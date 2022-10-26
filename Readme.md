@@ -8,7 +8,7 @@ Users are given the opportunity to place ads about their real estate or view alr
 ---
 <a href="https://bentonfraizer.github.io/704309-keksobooking-25/" target="_blank">Check the Demo</a>
 
-<img src="https://disk.yandex.ru/i/W8yVfdf6CcSW8A" width="769" />
+<img src="https://github.com/BentonFraizer/704309-keksobooking-25/blob/master/.github/workflows/keksobooking.png" width="769" />
 
 ### Stack
 - JS (ES6)
