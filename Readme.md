@@ -12,6 +12,7 @@ Users are given the opportunity to place ads about their real estate or view alr
 
 ### Stack
 - JS (ES6)
+- pristineJS
 - noUiSlider
 - Leaflet
 
