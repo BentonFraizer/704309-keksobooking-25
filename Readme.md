@@ -26,6 +26,9 @@ The app allows to:
 ### ⚙️ How To Run Locally
 
 1. clone repo
+```
+git clone git@github.com:BentonFraizer/keksobooking.git
+```
 2. install all dependencies with:
 ```
 npm install
