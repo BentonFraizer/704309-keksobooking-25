@@ -10,7 +10,7 @@ The app allows to:
 - **watch** ads via click on pins;
 - **filter** ads;
 - **interact** with the map;
-- **leave** ads with yours apartments for rent;
+- **leave** ads with yours apartments for rent; 
 
 ---
 [Check the Demo](https://external.ink?to=/bentonfraizer.github.io/keksobooking/)
