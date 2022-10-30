@@ -29,11 +29,15 @@ The app allows to:
 ```
 git clone git@github.com:BentonFraizer/keksobooking.git
 ```
-2. install all dependencies with:
+2. go into project folder
+```
+cd keksobooking/
+```
+3. install all dependencies with:
 ```
 npm install
 ```
-3. run in the **dev** mode with:
+4. run in the **dev** mode with:
 ```
 npm start
 ```
