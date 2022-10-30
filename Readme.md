@@ -25,7 +25,7 @@ The app allows to:
 
 ### ⚙️ How To Run Locally
 
-1. clone repo
+1. clone repo with:
 ```
 git clone git@github.com:BentonFraizer/keksobooking.git
 ```
