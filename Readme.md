@@ -29,7 +29,7 @@ The app allows to:
 ```
 git clone git@github.com:BentonFraizer/keksobooking.git
 ```
-2. go into project folder
+2. go into the project folder with:
 ```
 cd keksobooking/
 ```
